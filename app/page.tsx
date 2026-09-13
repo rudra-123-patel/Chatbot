@@ -35,7 +35,7 @@ export default function Home() {
           className="bg-neutral-700 text-white p-2 rounded-md ml-4 w-[18%] cursor-pointer"
           onClick={handleSendPrompt}
         >
-          Send Hello
+          Send 
         </button>
       </div>
     </main>
